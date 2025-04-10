@@ -1,0 +1,7 @@
+nome1 = input('Qual é o seu nome? ')
+nome2 = input('fala um nome ai ')
+input('voce conhece a jacyra? ')
+print('aquela, a', nome2, 'safada')
+input('kkkkkk ')
+print('mulher de respeitokkkkk')
+print('ja mamou o bonde todo ja')
