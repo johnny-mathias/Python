@@ -9,7 +9,7 @@ def get_pontos(mao) -> int:
             pontos = pontos + carta[0]
     return pontos
 
-def quer_carta(mao) -> bool:
+def quer_carta_hum(mao) -> bool:
     print(mao)
     print(f"Pontos: {get_pontos(mao)}")
     resp = input("Voce quer mais cartas (s/n)? ")
@@ -17,7 +17,7 @@ def quer_carta(mao) -> bool:
         return True
     return False
 
-def quer_carta(mao) -> bool:
+def quer_carta_cpu(mao) -> bool:
     if get_pontos(mao) < 15:
         return True
     else:
@@ -29,11 +29,11 @@ baralho.embaralhar(deck)
 mao_hum = baralho.distribuir(deck, 2)
 mao_cpu = baralho.distribuir(deck, 2)
 
-while quer_carta(mao_hum):
+while quer_carta_hum(mao_hum):
     c = baralho.comprar(deck)
     mao_hum.append(c)
     
-while quer_carta(mao_cpu):
+while quer_carta_cpu(mao_cpu):
     c =baralho.comprar(deck)
     mao_cpu.append(c)
     
