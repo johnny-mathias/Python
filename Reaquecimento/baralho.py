@@ -7,7 +7,6 @@ def criar() -> list:
         for naipe in naipes:
             carta = (valor, naipe)
             monte.append(carta)
-    print(monte)
     return monte
 
 def embaralhar(monte: list):
