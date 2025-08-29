@@ -13,7 +13,7 @@ def busca(lista: list, x: float) -> int:
 
 def busca_for(lista, x) -> int:
     for i in range(len(lista)):
-        if lista [i] ==x:
+        if lista [i] == x:
             return i
     return -1
 
