@@ -1,0 +1,190 @@
+Bahia: 0 X Atlético-MG: 5
+Botafogo: 2 X Atlético-MG: 3
+Bragantino: 0 X Atlético-MG: 4
+Ceará: 5 X Atlético-MG: 4
+Corinthians: 3 X Atlético-MG: 6
+Cruzeiro: 1 X Atlético-MG: 4
+Flamengo: 0 X Atlético-MG: 4
+Fluminense: 6 X Atlético-MG: 1
+Fortaleza: 6 X Atlético-MG: 5
+Grêmio: 6 X Atlético-MG: 3
+Internacional: 2 X Atlético-MG: 4
+Juventude: 0 X Atlético-MG: 4
+Mirassol: 1 X Atlético-MG: 4
+Palmeiras: 5 X Atlético-MG: 5
+Santos: 3 X Atlético-MG: 2
+São Paulo: 3 X Atlético-MG: 0
+Sport: 1 X Atlético-MG: 6
+Vasco: 3 X Atlético-MG: 4
+Vitória: 1 X Atlético-MG: 6
+Botafogo: 2 X Bahia: 4
+Bragantino: 2 X Bahia: 3
+Ceará: 2 X Bahia: 1
+Corinthians: 1 X Bahia: 3
+Cruzeiro: 6 X Bahia: 6
+Flamengo: 6 X Bahia: 6
+Fluminense: 4 X Bahia: 2
+Fortaleza: 4 X Bahia: 5
+Grêmio: 5 X Bahia: 0
+Internacional: 0 X Bahia: 3
+Juventude: 0 X Bahia: 1
+Mirassol: 3 X Bahia: 5
+Palmeiras: 2 X Bahia: 3
+Santos: 4 X Bahia: 0
+São Paulo: 1 X Bahia: 0
+Sport: 2 X Bahia: 2
+Vasco: 5 X Bahia: 6
+Vitória: 2 X Bahia: 2
+Bragantino: 2 X Botafogo: 4
+Ceará: 1 X Botafogo: 5
+Corinthians: 2 X Botafogo: 4
+Cruzeiro: 4 X Botafogo: 5
+Flamengo: 5 X Botafogo: 0
+Fluminense: 6 X Botafogo: 6
+Fortaleza: 4 X Botafogo: 0
+Grêmio: 3 X Botafogo: 1
+Internacional: 0 X Botafogo: 4
+Juventude: 1 X Botafogo: 2
+Mirassol: 3 X Botafogo: 5
+Palmeiras: 1 X Botafogo: 1
+Santos: 2 X Botafogo: 4
+São Paulo: 4 X Botafogo: 5
+Sport: 4 X Botafogo: 6
+Vasco: 1 X Botafogo: 5
+Vitória: 2 X Botafogo: 3
+Ceará: 3 X Bragantino: 0
+Corinthians: 3 X Bragantino: 2
+Cruzeiro: 5 X Bragantino: 2
+Flamengo: 5 X Bragantino: 1
+Fluminense: 4 X Bragantino: 3
+Fortaleza: 3 X Bragantino: 2
+Grêmio: 0 X Bragantino: 5
+Internacional: 3 X Bragantino: 5
+Juventude: 5 X Bragantino: 5
+Mirassol: 1 X Bragantino: 5
+Palmeiras: 2 X Bragantino: 3
+Santos: 3 X Bragantino: 3
+São Paulo: 3 X Bragantino: 6
+Sport: 3 X Bragantino: 6
+Vasco: 6 X Bragantino: 5
+Vitória: 4 X Bragantino: 1
+Corinthians: 2 X Ceará: 5
+Cruzeiro: 6 X Ceará: 0
+Flamengo: 1 X Ceará: 4
+Fluminense: 5 X Ceará: 2
+Fortaleza: 3 X Ceará: 1
+Grêmio: 0 X Ceará: 2
+Internacional: 4 X Ceará: 3
+Juventude: 1 X Ceará: 1
+Mirassol: 5 X Ceará: 5
+Palmeiras: 5 X Ceará: 0
+Santos: 4 X Ceará: 1
+São Paulo: 1 X Ceará: 4
+Sport: 4 X Ceará: 5
+Vasco: 3 X Ceará: 5
+Vitória: 2 X Ceará: 3
+Cruzeiro: 0 X Corinthians: 3
+Flamengo: 4 X Corinthians: 3
+Fluminense: 1 X Corinthians: 1
+Fortaleza: 1 X Corinthians: 5
+Grêmio: 6 X Corinthians: 0
+Internacional: 5 X Corinthians: 2
+Juventude: 0 X Corinthians: 3
+Mirassol: 4 X Corinthians: 5
+Palmeiras: 6 X Corinthians: 4
+Santos: 0 X Corinthians: 4
+São Paulo: 2 X Corinthians: 2
+Sport: 4 X Corinthians: 2
+Vasco: 6 X Corinthians: 4
+Vitória: 6 X Corinthians: 1
+Flamengo: 0 X Cruzeiro: 1
+Fluminense: 5 X Cruzeiro: 2
+Fortaleza: 2 X Cruzeiro: 0
+Grêmio: 1 X Cruzeiro: 2
+Internacional: 0 X Cruzeiro: 6
+Juventude: 0 X Cruzeiro: 3
+Mirassol: 2 X Cruzeiro: 1
+Palmeiras: 2 X Cruzeiro: 4
+Santos: 5 X Cruzeiro: 6
+São Paulo: 5 X Cruzeiro: 4
+Sport: 4 X Cruzeiro: 2
+Vasco: 3 X Cruzeiro: 2
+Vitória: 1 X Cruzeiro: 1
+Fluminense: 5 X Flamengo: 4
+Fortaleza: 1 X Flamengo: 1
+Grêmio: 6 X Flamengo: 4
+Internacional: 0 X Flamengo: 0
+Juventude: 5 X Flamengo: 2
+Mirassol: 0 X Flamengo: 4
+Palmeiras: 0 X Flamengo: 6
+Santos: 4 X Flamengo: 4
+São Paulo: 5 X Flamengo: 2
+Sport: 0 X Flamengo: 6
+Vasco: 4 X Flamengo: 1
+Vitória: 2 X Flamengo: 4
+Fortaleza: 0 X Fluminense: 5
+Grêmio: 5 X Fluminense: 3
+Internacional: 6 X Fluminense: 6
+Juventude: 3 X Fluminense: 2
+Mirassol: 3 X Fluminense: 1
+Palmeiras: 0 X Fluminense: 1
+Santos: 2 X Fluminense: 3
+São Paulo: 6 X Fluminense: 3
+Sport: 3 X Fluminense: 3
+Vasco: 1 X Fluminense: 3
+Vitória: 6 X Fluminense: 0
+Grêmio: 2 X Fortaleza: 5
+Internacional: 5 X Fortaleza: 1
+Juventude: 5 X Fortaleza: 3
+Mirassol: 2 X Fortaleza: 6
+Palmeiras: 4 X Fortaleza: 1
+Santos: 5 X Fortaleza: 3
+São Paulo: 4 X Fortaleza: 3
+Sport: 4 X Fortaleza: 2
+Vasco: 0 X Fortaleza: 2
+Vitória: 5 X Fortaleza: 4
+Internacional: 0 X Grêmio: 6
+Juventude: 2 X Grêmio: 6
+Mirassol: 4 X Grêmio: 5
+Palmeiras: 6 X Grêmio: 0
+Santos: 2 X Grêmio: 2
+São Paulo: 4 X Grêmio: 2
+Sport: 2 X Grêmio: 6
+Vasco: 3 X Grêmio: 3
+Vitória: 5 X Grêmio: 4
+Juventude: 2 X Internacional: 2
+Mirassol: 6 X Internacional: 6
+Palmeiras: 0 X Internacional: 3
+Santos: 6 X Internacional: 4
+São Paulo: 5 X Internacional: 6
+Sport: 6 X Internacional: 5
+Vasco: 2 X Internacional: 1
+Vitória: 5 X Internacional: 4
+Mirassol: 4 X Juventude: 6
+Palmeiras: 5 X Juventude: 1
+Santos: 2 X Juventude: 5
+São Paulo: 0 X Juventude: 2
+Sport: 6 X Juventude: 0
+Vasco: 5 X Juventude: 4
+Vitória: 0 X Juventude: 4
+Palmeiras: 3 X Mirassol: 6
+Santos: 2 X Mirassol: 2
+São Paulo: 0 X Mirassol: 1
+Sport: 1 X Mirassol: 1
+Vasco: 1 X Mirassol: 4
+Vitória: 4 X Mirassol: 5
+Santos: 5 X Palmeiras: 0
+São Paulo: 5 X Palmeiras: 6
+Sport: 4 X Palmeiras: 5
+Vasco: 2 X Palmeiras: 1
+Vitória: 0 X Palmeiras: 0
+São Paulo: 5 X Santos: 0
+Sport: 3 X Santos: 2
+Vasco: 1 X Santos: 2
+Vitória: 2 X Santos: 6
+Sport: 3 X São Paulo: 3
+Vasco: 2 X São Paulo: 4
+Vitória: 4 X São Paulo: 2
+Vasco: 5 X Sport: 1
+Vitória: 0 X Sport: 6
+Vitória: 5 X Vasco: 2
