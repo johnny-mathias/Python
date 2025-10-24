@@ -44,6 +44,8 @@ def insere_conta(cliente: dict):
 
             sql = "INSERT INTO conta(tipo, numero, senha, saldo, cliente_id) VALUES ('corrente', :id_conta, 'admin', 0, :cliente_id)"
 
-            info = {"id_conta": id_conta, "cliente_id": cliente['id']}
+            info = {
+                "id_conta": id_conta, "cliente_id": cliente['id']
+            }
             cur.execute(sql, info)
         con.commit()
