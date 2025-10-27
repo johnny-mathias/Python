@@ -27,11 +27,16 @@ def abertura_conta(cliente: dict, cep: str):
         msg = f'Erro na abertura do cliente {cliente["nome"]}'
         raise Exception(msg)
 
+def registra_transacao(transacao: dict):
+    try:
+        insere_transacao(transacao)
+        info = {"id": transacao['conta_id'], "valor": transacao['valor']}
+        atualiza_saldo(info)
+    except Exception as erro:
+        traceback.print_exc()
+        msg = f"Erro no registro da transacao"
+        raise Exception(msg)
 
-cli = {
-    "nome": "Vivian",
-    "telefone": "(11) 9483-9029",
-    "documento": "364.948.802-99"
-}
 
-abertura_conta(cli, '01311000')
+def recupera_clientes():
+    return recupera_clientes_banco(), 200 
